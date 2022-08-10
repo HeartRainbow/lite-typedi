@@ -1,0 +1,23 @@
+{
+  "name": "lite-typedi",
+  "version": "1.0.0",
+  "description": "兼容vue3的DI容器",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RunningMosaic/lite-typedi.git"
+  },
+  "keywords": [
+    "typedi",
+    "vue3"
+  ],
+  "author": "running-mosaic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RunningMosaic/lite-typedi/issues"
+  },
+  "homepage": "https://github.com/RunningMosaic/lite-typedi#readme"
+}
