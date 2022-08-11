@@ -1,6 +1,6 @@
 {
   "name": "lite-typedi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "兼容vue3的DI容器",
   "main": "src/index.ts",
   "scripts": {
