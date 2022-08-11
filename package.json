@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/HeartRainbow/lite-typedi/issues"
   },
-  "homepage": "https://github.com/HeartRainbow/lite-typedi#readme"
+  "homepage": "https://github.com/HeartRainbow/lite-typedi#readme",
+  "dependencies": {
+    "typedi": "^0.10.0",
+    "vue-class-component": "^8.0.0-rc.1"
+  }
 }

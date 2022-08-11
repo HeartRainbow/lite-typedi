@@ -4,7 +4,6 @@ export {
     Container,
     ContainerInstance,
     Handler,
-    ObjectType,
     Service,
     ServiceIdentifier,
     ServiceMetadata,
