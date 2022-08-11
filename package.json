@@ -2,7 +2,7 @@
   "name": "lite-typedi",
   "version": "1.0.0",
   "description": "兼容vue3的DI容器",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "test"
   },
@@ -14,7 +14,7 @@
     "typedi",
     "vue3"
   ],
-  "author": "HeartRainbow",
+  "author": "heart-rainbow",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HeartRainbow/lite-typedi/issues"
