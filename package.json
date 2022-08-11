@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RunningMosaic/lite-typedi.git"
+    "url": "git+https://github.com/HeartRainbow/lite-typedi.git"
   },
   "keywords": [
     "typedi",
     "vue3"
   ],
-  "author": "running-mosaic",
+  "author": "HeartRainbow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RunningMosaic/lite-typedi/issues"
+    "url": "https://github.com/HeartRainbow/lite-typedi/issues"
   },
-  "homepage": "https://github.com/RunningMosaic/lite-typedi#readme"
+  "homepage": "https://github.com/HeartRainbow/lite-typedi#readme"
 }
